@@ -12,7 +12,7 @@
       - [x] Decide to do it ONCE FOR ALL.
       - [x] Sign up for a bootcamp at [4Geeks Academy](https://4geeksacademy.com/us/index).
       - [x] Give a 110%.
-      - [ ] Get my Full stack developer certification.
+      - [x] Get my Full stack developer certification.
       - [ ] Get my first job at programming!!
     
     Easy right?... RIGHT??  
