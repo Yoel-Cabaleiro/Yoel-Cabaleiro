@@ -13,7 +13,7 @@
       - [x] Sign up for a bootcamp at [4Geeks Academy](https://4geeksacademy.com/us/index).
       - [x] Give a 110%.
       - [x] Get my Full stack developer certification.
-      - [ ] Get my first job at programming!!
+      - [x] Get my first job at programming!!
     
     Easy right?... RIGHT??  
 
